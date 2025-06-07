@@ -8,8 +8,9 @@
 🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
 
 ---
-
 ## 🚀 My Projects & Hobbies
+
+
 
 
  
@@ -48,6 +49,8 @@ I work hard to improve my skills every day, including:
 
 ---
 
+
+---
 ## 📫 Contact Me
 
 Feel free to reach out!  
