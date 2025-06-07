@@ -18,8 +18,8 @@
 
 ## 📸 A Few Cool Images From My Projects
 
-![Website Design](https://via.placeholder.com/300x150.png?text=Website+Design)  
-![Game Screenshot](https://via.placeholder.com/300x150.png?text=Game+Screenshot)  
+
+![Game Website](https://s2.ezgif.com/tmp/ezgif-252b351465e9be.gif)  
 ![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 ![Learning](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
