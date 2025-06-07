@@ -4,7 +4,7 @@
 💻 I love creating websites and games using **HTML**, **CSS**, **JavaScript**, **Python**, and **PHP**.  
 🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games! 
 
-![Game Website]([https://s2.ezgif.com/tmp/ezgif-216d5542d0c7a3.webp](https://camo.githubusercontent.com/c44a75c877a26e062e268de4bd08e69d72f0499c53011b007de47f94751772ec/68747470733a2f2f73322e657a6769662e636f6d2f746d702f657a6769662d32313664353534326430633761332e77656270))  
+![Game Website](https://s2.ezgif.com/tmp/ezgif-216d5542d0c7a3.webp)
 🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
 
 ---
