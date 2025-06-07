@@ -52,7 +52,7 @@ I work hard to improve my skills every day, including:
 
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
-📱 WhatsApp: [+92 300 140056](https://wa.me/92300140056)  
+📱 WhatsApp: [+92 300 1400056](https://wa.me/923001400056)  
 🌐 Website: *(coming soon)*
 
 ---
