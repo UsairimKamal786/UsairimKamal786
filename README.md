@@ -1,50 +1,116 @@
-# 👋 Hey, I'm Usairim Kamal
+# 👋 Hey, I'm Usairim Kamal!
 
-🧒 A 9-year-old developer from Pakistan  
-💻 I code in HTML, CSS, JS & Python  
-🎮 Founder of Usairim Web Tech Games Store  
-🚀 Small age, BIG dreams!
-
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+🧒 I’m a 9-year-old coder, designer, and tech explorer from Pakistan.  
+💻 I love creating websites and games using **HTML**, **CSS**, **JavaScript**, **Python**, and **PHP**.  
+🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games!  
+🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
 
 ---
 
-## 🚀 My Projects
+## 🚀 My Projects & Hobbies
 
-- 🎮 **Usairim Web Tech Games Store** *(Coming soon)*  
-- 🧑‍💻 Learning full stack web development  
-- 🌍 Making my own amazing websites
-
-
-
-
-
-
-## 📚 Learning Profiles
-
-- 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/)  
-- 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/)  
-- 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786)  
-- 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786)
+- 🎮 **Usairim Web Tech Games Store** *(Coming soon)* – A special place for games I create and share with friends.  
+- 💡 I enjoy coding creative websites and experimenting with new designs and animations.  
+- 📚 I spend time on learning platforms like Codingal, Khan Academy, freeCodeCamp, and Duolingo to sharpen my skills and learn new languages.  
+- 🎲 Besides coding, I love playing Minecraft and dreaming about making my own video games one day!
 
 ---
 
-## 🔧 Tools & Tech
+## 📸 A Few Cool Images From My Projects
+
+![Website Design](https://via.placeholder.com/300x150.png?text=Website+Design)  
+![Game Screenshot](https://via.placeholder.com/300x150.png?text=Game+Screenshot)  
+![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Learning](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+---
+
+## 📚 Other Platforms
+
+- 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/) — Learning coding step-by-step  
+- 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/) — Improving math and programming skills  
+- 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786) — Web development challenges and projects  
+- 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
+
+---
+
+## 🔧 My Tech Skills
+
+I work hard to improve my skills every day, including:
 
 ![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ## 📫 Contact Me
 
-📧 usairimkamal2016@gmail.com  
+Feel free to reach out!  
+📧 Email: usairimkamal2016@gmail.com  
 🌐 Website: *(coming soon)*
 
 ---
 
-![Footer GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+> *“Bismillah – everything starts with Allah’s help.”*  
+> *Small age, big dreams, and a heart full of passion!*
+# 👋 Hey, I'm Usairim Kamal!
 
-> *"Bismillah – everything starts with Allah’s help."*
+🧒 I’m a 9-year-old coder, designer, and tech explorer from Pakistan.  
+💻 I love creating websites and games using **HTML**, **CSS**, **JavaScript**, **Python**, and **PHP**.  
+🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games!  
+🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
+
+---
+
+## 🚀 My Projects & Hobbies
+
+- 🎮 **Usairim Web Tech Games Store** *(Coming soon)* – A special place for games I create and share with friends.  
+- 💡 I enjoy coding creative websites and experimenting with new designs and animations.  
+- 📚 I spend time on learning platforms like Codingal, Khan Academy, freeCodeCamp, and Duolingo to sharpen my skills and learn new languages.  
+- 🎲 Besides coding, I love playing Minecraft and dreaming about making my own video games one day!
+
+---
+
+## 📸 A Few Cool Images From My Projects
+
+![Website Design](https://via.placeholder.com/300x150.png?text=Website+Design)  
+![Game Screenshot](https://via.placeholder.com/300x150.png?text=Game+Screenshot)  
+![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Learning](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+---
+
+## 📚 Where I Learn
+
+- 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/) — Learning coding step-by-step  
+- 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/) — Improving math and programming skills  
+- 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786) — Web development challenges and projects  
+- 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
+
+---
+
+## 🔧 My Tech Skills
+
+I work hard to improve my skills every day, including:
+
+![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out!  
+📧 Email: usairimkamal2016@gmail.com  
+🌐 Website: *(coming soon)*
+
+---
+
+> *“Bismillah – everything starts with Allah’s help.”*  
+> *Small age, big dreams, and a heart full of passion!*
