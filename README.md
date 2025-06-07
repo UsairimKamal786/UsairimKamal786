@@ -16,19 +16,12 @@
 
 ---
 
-## 📸 A Few Cool Images From My Projects & Coding
+## 📸 A Few Cool Images From My Projects
 
-![Coding Keyboard](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=600&q=80)  
-*Typing code and creating new things!*
-
-![Game Controller](https://images.unsplash.com/photo-1587800791315-0ee4c4a65a6e?auto=format&fit=crop&w=600&q=80)  
-*Games inspire me to build my own!*
-
-![Coding on Laptop](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=80)  
-*Learning new coding skills every day.*
-
-![Colorful Code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-*Fun with programming!*
+![Website Design](https://via.placeholder.com/300x150.png?text=Website+Design)  
+![Game Screenshot](https://via.placeholder.com/300x150.png?text=Game+Screenshot)  
+![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Learning](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ---
 
