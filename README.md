@@ -1,40 +1,50 @@
-# 👋 Hi, I'm Usairim Kamal!
+# 👋 Hey, I'm Usairim Kamal
 
-🎮 I'm a 9-year-old coder, designer, and game lover from Pakistan!  
-🌟 I code in **HTML**, **CSS**, **JavaScript**, and **Python**.  
-💻 I'm building my own website and game store – **coming soon!**  
+🧒 A 9-year-old developer from Pakistan  
+💻 I code in HTML, CSS, JS & Python  
+🎮 Founder of Usairim Web Tech Games Store  
+🚀 Small age, BIG dreams!
+
+![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ---
 
 ## 🚀 My Projects
 
-- 🕹️ **Usairim Web Tech Games Store** – A cool place to get and play games *(coming soon)*  
-- 💻 Learning more about websites, games, and creative coding every day!
+- 🎮 **Usairim Web Tech Games Store** *(Coming soon)*  
+- 🧑‍💻 Learning full stack web development  
+- 🌍 Making my own amazing websites
 
----
 
-## 🎯 My Goals
 
-- Build and publish my own games  
-- Make awesome websites  
-- Learn more coding languages  
-- Keep exploring fun tech projects!
 
----
 
-## 🎓 Education & Learning
 
-- 🇵🇰 Country: Pakistan  
-- 🕒 Timezone: UTC +05:00 (PKT)  
-- 📧 Email: usairimkamal2016@gmail.com
+## 📚 Learning Profiles
 
-### 👨‍💻 Online Learning Profiles
-- 💡 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/)
-- 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/)
-- 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786)
+- 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/)  
+- 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/)  
+- 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786)  
 - 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786)
 
 ---
 
-> 🧠 *"Small age, big dreams!"* 🚀  
-> 🌙 *Bismillah – everything starts with Allah's help!*
+## 🔧 Tools & Tech
+
+![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+📧 usairimkamal2016@gmail.com  
+🌐 Website: *(coming soon)*
+
+---
+
+![Footer GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+> *"Bismillah – everything starts with Allah’s help."*
