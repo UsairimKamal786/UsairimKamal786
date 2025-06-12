@@ -4,7 +4,6 @@
 💻 I love creating websites and games using **HTML**, **CSS**, **JavaScript**, **Python**, and **PHP**.  
 🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games! 
 
-![Game Website](https://s2.ezgif.com/tmp/ezgif-216d5542d0c7a3.webp)
 🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
 
 ---
@@ -17,10 +16,6 @@
 - 💡 I enjoy coding creative websites and experimenting with new designs and animations.  
 - 📚 I spend time on learning platforms like Codingal, Khan Academy, freeCodeCamp, and Duolingo to sharpen my skills and learn new languages.  
 - 🎲 Besides coding, I love playing Minecraft and dreaming about making my own video games one day!
-
----
-
-## 📸 A Few Cool Images From My Projects
 
 
 ![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
