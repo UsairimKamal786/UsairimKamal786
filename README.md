@@ -41,7 +41,7 @@ I work hard to improve my skills every day, including:
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Block Coding](https://photos.fife.usercontent.google.com/pw/AP1GczP-qDAv61biQ9ZeZtYHg12b7ntsE77uiYEy3XI48Se09INJtm6TVgg=w477-h122-s-no-gm?authuser=0)
+![Scratch](https://www.bing.com/th?id=OSK.4347340b06aa0f37d11d6a8c83152eb7&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS)
 
 ---
 
