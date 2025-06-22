@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Usairim Kamal!
 
-🧒 I’m a 9-year-old coder, designer, and tech explorer from Pakistan.  
+🧒 I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
 💻 I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, and **Scratch**.  
 🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games! 
 
