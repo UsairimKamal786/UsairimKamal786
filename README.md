@@ -8,7 +8,8 @@
 
 
 ## Education
-(https://portalvhds92w3lf984z1qn.blob.core.windows.net/images/edab0594-3927-479c-82f1-cfa30660b7dc.jpg)
+![image](https://github.com/user-attachments/assets/27244b13-e1be-494d-95a3-7f59a97ae57f)
+
 Olevels Virtual School - UK, London
 ## ✨More Profiles
 
