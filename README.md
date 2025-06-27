@@ -1,16 +1,64 @@
-# 👋 Hey, I'm Usairim Kamal!
-
-🧒 I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
-💻 I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, and **Scratch**.  
-🎮 I’m building my very own project called **Usairim Web Tech Games Store** – where people can find and play fun games! 
-
-🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
+### 👤 About Me
+Hey, I'm Usairim Kamal!
+I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
+I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, and **Scratch**.  
+I’m building my very own website called **Usairim Web Tech Games Store** – where people can find and play fun games! 
 
 
-## Education
+
+## 🎓 Education
 ![image](https://github.com/user-attachments/assets/27244b13-e1be-494d-95a3-7f59a97ae57f)
+**Olevels Virtual School**
 
-Olevels Virtual School - UK, London
+
+United Kingdom: 20 Wenlock Road London N1 7GU England. 
+Saudi Arabia: Strip Block C VL04- 023 Sharjah Research
+UAE: Technology Innovation Park Free Zone Authority United Arab Emirates (UAE).
+Pakistan: FF 327 City Housing Wafi Sector Gujranwala Pakistan.
+
+Completed: English Pre IGCSE
+
+📅 2024 - 2025
+
+---
+
+## Experience
+
+🚩 Projects Developer — 41+ Projects Completed
+
+Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_330048541050066982039450/projects)** & **[FreecodeCamp](https://www.freecodecamp.org/UsairimKamal786)**
+
+• Successfully Completed Upto 61+ Projects approximatly 720+ Hours
+• Including HTML, CSS, JavaScript, and Python 
+• Using Images Including Pixabay, Shields, and FreeCodeCamp.com
+
+
+## 🔧 My Skills
+
+I work hard to improve my skills every day, including:
+
+![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://th.bing.com/th/id/R.c9421be52fe48fdf04839b53f8e9f1d4?rik=mXxNLfvtnGtNEA&pid=ImgRaw&r=0)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Scratch](https://www.bing.com/th?id=OSK.4347340b06aa0f37d11d6a8c83152eb7&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS)   
+
+---
+
+### **🧠 Languages**
+![image](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white) ![image](https://th.bing.com/th/id/R.c9421be52fe48fdf04839b53f8e9f1d4?rik=mXxNLfvtnGtNEA&pid=ImgRaw&r=0) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### PLatforms
+
+![image](https://github.githubassets.com/favicons/favicon.svg)
+![image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+
+
+ 
+
+
+
+
 ## ✨More Profiles
 
 - 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/) — Learning coding step-by-step  
@@ -18,18 +66,6 @@ Olevels Virtual School - UK, London
 - 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786) — Web development challenges and projects  
 - 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
 - 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — On Weekend, I play roblox
-
----
-
-## 🔧 My Tech Skills
-
-I work hard to improve my skills every day, including:
-
-![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Scratch](https://www.bing.com/th?id=OSK.4347340b06aa0f37d11d6a8c83152eb7&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS)   
 
 ---
 
@@ -44,5 +80,7 @@ Feel free to reach out!
 
 ---
 
-> *“Bismillah – everything starts with Allah’s help.”*  
+
+
+> *“Bismillah – everything starts with Allah's help.”*  
 > *Small age, big dreams, and a heart full of passion!*
