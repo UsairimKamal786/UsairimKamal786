@@ -51,7 +51,8 @@ I work hard to improve my skills every day, including:
 ### PLatforms
 
 ![image](https://github.githubassets.com/favicons/favicon.svg)
-![image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+![image]([https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg](https://camo.githubusercontent.com/0484a05f930587fab85ce5424255f4ee2b5f1f5cbbb4e0789bf9a418d721d592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465267374796c653d666c6174))
+
 
 
  
