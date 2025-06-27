@@ -8,7 +8,7 @@
 
 
 ## Education
-[Image](https://portalvhds92w3lf984z1qn.blob.core.windows.net/images/edab0594-3927-479c-82f1-cfa30660b7dc.jpg)
+(https://portalvhds92w3lf984z1qn.blob.core.windows.net/images/edab0594-3927-479c-82f1-cfa30660b7dc.jpg)
 Olevels Virtual School - UK, London
 ## ✨More Profiles
 
