@@ -6,30 +6,17 @@
 
 🚀 Even though I’m young, I have big dreams and lots of passion for technology and learning new things every day.
 
----
-## 🚀 My Projects & Hobbies
 
-
-
-
- 
-- 💡 I enjoy coding creative websites and experimenting with new designs and animations.  
-- 📚 I spend time on learning platforms like Codingal, Khan Academy, freeCodeCamp, and Duolingo to sharpen my skills and learn new languages.  
-- 🎲 Besides coding, I love playing Minecraft and dreaming about making my own video games one day!
-
-
-![Coding Fun](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-![Learning](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
----
-
+## Education
+[Image](https://portalvhds92w3lf984z1qn.blob.core.windows.net/images/edab0594-3927-479c-82f1-cfa30660b7dc.jpg)
+Olevels Virtual School - UK, London
 ## ✨More Profiles
 
 - 🧠 [Codingal](https://www.codingal.com/en-pk/@chicMuesli71/) — Learning coding step-by-step  
 - 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/) — Improving math and programming skills  
 - 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786) — Web development challenges and projects  
 - 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
-- 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — I Play Free Time Here
+- 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — On Weekend, I play roblox
 
 ---
 
