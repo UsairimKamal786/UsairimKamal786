@@ -42,7 +42,7 @@ I work hard to improve my skills every day, including:
 ---
 
 ### **🧠 Languages**
-![image](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white) ![image](https://camo.githubusercontent.com/1e21155b89b02db0d17fcd9aef19ffec849e5bb0846d863e60333894c412cf15/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666c6174) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### PLatforms
 
