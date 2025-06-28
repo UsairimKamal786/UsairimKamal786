@@ -11,13 +11,6 @@ I’m building my very own website called **Usairim Web Tech Games Store** – w
 **Olevels Virtual School**
 
 
-United Kingdom: 20 Wenlock Road London N1 7GU England.
-
-Saudi Arabia: Strip Block C VL04- 023 Sharjah Research
-
-UAE: Technology Innovation Park Free Zone Authority United Arab Emirates (UAE).
-
-Pakistan: FF 327 City Housing Wafi Sector Gujranwala Pakistan.
 
 Completed: English Pre IGCSE
 
