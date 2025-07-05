@@ -31,15 +31,6 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 • Using Images Including Pixabay, Shields, and FreeCodeCamp.com
 
 
-## 🔧 My Skills
-
-I work hard to improve my skills every day, including:
-
-![HTML](https://img.shields.io/badge/HTML-FE5722?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Scratch](https://www.bing.com/th?id=OSK.4347340b06aa0f37d11d6a8c83152eb7&w=175&h=120&qlt=120&c=6&rs=1&cdv=1&pid=RS)   
 
 ---
 
