@@ -46,10 +46,22 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ![image](https://img.shields.io/badge/-Codingal-FF6F00?style=flat&logoColor=white)
  
 
-## Laptop Brands (I'm Using)
+## 💻 My Tech Stack
 
+### 🖥️ Brands
 ![Lenovo](https://img.shields.io/badge/Lenovo-black?style=for-the-badge&logo=lenovo&logoColor=white)
 ![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+
+### 🧠 Operating Systems
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Chrome OS](https://img.shields.io/badge/Chrome%20OS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### 🌐 Browsers
+
+![Google Chrome](https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png) Google Chrome  
+![Microsoft Edge](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.png) Microsoft Edge
+
+
 
 
 
