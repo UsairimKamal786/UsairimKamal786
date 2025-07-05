@@ -58,8 +58,9 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 ### 🌐 Browsers
 
-![Google Chrome](https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png) Google Chrome  
-![Microsoft Edge](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.png) Microsoft Edge
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)
+
 
 
 
