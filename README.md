@@ -57,7 +57,6 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 - 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
 - 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — On Weekend, I play roblox
 
----
 
 
 ---
