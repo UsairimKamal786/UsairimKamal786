@@ -46,7 +46,11 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ![image](https://img.shields.io/badge/-Codingal-FF6F00?style=flat&logoColor=white)
  
 
-## Systems
+## Laptop Brands (I'm Using)
+
+![Lenovo](https://img.shields.io/badge/Lenovo-black?style=for-the-badge&logo=lenovo&logoColor=white)
+![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+
 
 
 ## ✨More Profiles
