@@ -28,7 +28,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 • Including HTML, CSS, JavaScript, and Python
 
-• Using Images Including Pixabay, Shields, and FreeCodeCamp.com
+• Using Images Including Shilds Editior, and Pixabay
 
 
 
@@ -72,7 +72,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 - 📚 [Khan Academy](https://www.khanacademy.org/profile/UsairimWebTech2016/) — Improving math and programming skills  
 - 🏅 [freeCodeCamp](https://www.freecodecamp.org/UsairimKamal786) — Web development challenges and projects  
 - 🌍 [Duolingo](https://www.duolingo.com/profile/UsairimKamal786) — Practicing new languages to communicate globally
-- 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — On Weekend, I play roblox
+- 🎮 [Roblox Games](https://www.roblox.com/users/7150826105/profile) — On weekend, I sometimes play roblox like at 5:30 pm
 
 
 
