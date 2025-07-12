@@ -54,7 +54,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 ### 🧠 Operating Systems
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Chrome OS](https://img.shields.io/badge/Chrome%20OS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 
 ### 🌐 Browsers
 
