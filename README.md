@@ -44,6 +44,8 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ![image](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/-Khan%20Academy-14BF96?logo=khanacademy&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/-Codingal-FF6F00?style=flat&logoColor=white)
+![image](https://img.shields.io/badge/-FigJam-CF4AFF?style=flat&logo=figma&logoColor=white)
+
  
 
 ## 💻 My Tech Stack
