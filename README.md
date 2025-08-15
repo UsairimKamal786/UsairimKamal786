@@ -24,7 +24,7 @@ Completed: English Pre IGCSE
 
 Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_330048541050066982039450/projects)** & **[FreecodeCamp](https://www.freecodecamp.org/UsairimKamal786)**
 
-• Successfully Completed Upto 62+ Projects approximatly 720+ Hours
+• Successfully Completed Upto 62+ Projects approximatly 725+ Hours
 
 • Including HTML, CSS, JavaScript, and Python
 
