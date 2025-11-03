@@ -90,7 +90,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
 📱 WhatsApp: [+92 300 1400056](https://wa.me/923001400056)  
-🌐 Website: [Usairim Web Tech](*usairimkamal786.github.io*)
+🌐 Website: [Usairim Web Tech](usairimkamal786.github.io)
 
 ---
 
