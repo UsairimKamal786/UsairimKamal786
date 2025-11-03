@@ -4,7 +4,13 @@ I’m 9-year-old coder, designer, and tech explorer from Pakistan.
 I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, and **Scratch**.  
 I’m building my very own website called **Usairim Web Tech Games Store** – where people can find and play fun games! 
 
+## My Github Readme Stats 
 
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usairimkamal786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usairimkamal786&layout=compact&theme=buefy&hide_border=true"/>
+<br>
+<br>
 
 ## 🎓 Education
 ![image](https://github.com/user-attachments/assets/27244b13-e1be-494d-95a3-7f59a97ae57f)
@@ -84,7 +90,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
 📱 WhatsApp: [+92 300 1400056](https://wa.me/923001400056)  
-🌐 Website: *(coming soon)*
+🌐 Website: *usairimkamal786.github.io*
 
 ---
 
