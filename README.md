@@ -1,8 +1,7 @@
 ### 👤 About Me
 Hey, I'm Usairim Kamal!
 I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
-I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, and **Scratch**.  
-I’m building my very own website called **Usairim Web Tech Games Store** – where people can find and play fun games! 
+I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, **Scratch** and **PHP**.  
 
 ## My Github Readme Stats 
 
@@ -17,6 +16,7 @@ I’m building my very own website called **Usairim Web Tech Games Store** – w
 **Olevels Virtual School**
 
 [Website](https://olevelsvirtualschool.com)
+<br>
 📅 2024 - 2025
 
 ---
