@@ -8,6 +8,7 @@ I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Pyth
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=usairimkamal786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usairimkamal786&layout=compact&theme=buefy&hide_border=true"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=usairimkamal786"/>
    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=usairimkamal786&limit=5&combine_all_yearly_contributions=true"/>
 <br>
 <br>
