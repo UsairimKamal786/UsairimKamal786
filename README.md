@@ -10,7 +10,7 @@ I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Pyth
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usairimkamal786&layout=compact&theme=buefy&hide_border=true"/>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=usairimkamal786"/>
    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=usairimkamal786&limit=5&combine_all_yearly_contributions=true"/>
-   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=usairimkamal786&theme=dracula&hide_border=true%22%20width=%22520px%22%20alt=%22streak%20graph%22"/>
+   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=usairimkamal786&hide_border=true%22%20width=%22520px%22%20alt=%22streak%20graph%22"/>
 <br>
 <br>
 
