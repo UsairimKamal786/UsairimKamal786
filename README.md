@@ -13,6 +13,12 @@ I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Pyth
 <br>
 <br>
 
+## Top Repositories
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=usairimkamal786&repo=usairimkamal786"/>
+
+<br>
+<br>
+
 ## 🎓 Education
 ![image](https://github.com/user-attachments/assets/27244b13-e1be-494d-95a3-7f59a97ae57f)
 **Olevels Virtual School**
