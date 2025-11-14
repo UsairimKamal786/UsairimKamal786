@@ -96,7 +96,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
-📱 WhatsApp: [+92 347 6583350](https://api.whatsapp.com/send/?phone=923476583350&text&type=phone_number&app_absent=0)<br> <br>
+📱 WhatsApp: [+92 347 6583350](https://api.whatsapp.com/send/?phone=923476583350&text&type=phone_number&app_absent=0)<br>
 🌐 Website: [Usairim Web Tech Store](https://usairimkamal786.github.io)
 
 ---
