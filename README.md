@@ -3,19 +3,7 @@ Hey, I'm Usairim Kamal!
 I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
 I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, **Scratch** and **PHP**.  
 
-## My Github Profile Report 
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usairimkamal786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usairimkamal786&layout=compact&theme=buefy&hide_border=true"/>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=usairimkamal786"/>
-   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=usairimkamal786&limit=5&combine_all_yearly_contributions=true"/>
-   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=usairimkamal786&hide_border=true%22%20width=%22520px%22%20alt=%22streak%20graph%22"/>
-<br>
-<br>
-
-## Top Repositories
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=usairimkamal786&repo=usairimkamal786"/>
 
 <br>
 <br>
