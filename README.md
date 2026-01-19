@@ -40,8 +40,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 ### PLatforms
 
-![image](https://camo.githubusercontent.com/e3a36945f105456a874ba5506f64fe460051ae6c829eb07633094594a643c75b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666c6174)
-![image](https://camo.githubusercontent.com/0484a05f930587fab85ce5424255f4ee2b5f1f5cbbb4e0789bf9a418d721d592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465267374796c653d666c6174)
+
 ![image](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/-Khan%20Academy-14BF96?logo=khanacademy&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/-Codingal-FF6F00?style=flat&logo=codeforces&logoColor=white)
