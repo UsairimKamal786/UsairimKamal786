@@ -15,7 +15,7 @@ I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Pyth
 [Website](https://olevelsvirtualschool.com)
 <br>
 <br>
-📅 2024 - 2025
+📅 2024 - 2026
 
 ---
 
