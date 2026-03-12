@@ -78,6 +78,9 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 
 ---
+
+## Stats
+![Github Stats](https://gh-readme-profile.vercel.app/api?username=UsairimKamal786&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3)
 ## 📫 Contact Me
 
 Feel free to reach out!  
