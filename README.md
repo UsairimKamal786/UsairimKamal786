@@ -85,8 +85,10 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
+
 🌐 Website: [Usairim Web Tech Website](https://usairimkamal786.github.io)
-❤️‍🔥 [life Story](https://usairimkamal786.github.io/life-story.html)
+
+❤️‍🔥 [Life Story](https://usairimkamal786.github.io/life-story.html)
 
 **New Updates every week**
 
